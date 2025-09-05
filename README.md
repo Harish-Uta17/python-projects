@@ -1,24 +1,28 @@
-🐍 Python Projects
-This repository contains my daily Python projects while learning through the 100 Days of Python course.
-Each project is small but helps me practice Python step by step.
+# 🐍 Python Projects  
 
-📂 Projects Added
-Treasure Hunt 🎯 – A text-based adventure game using conditionals.
+This repository contains my daily Python projects while learning through the *100 Days of Python* course.  
+Each project is small but helps me practice Python step by step.  
 
-Stone Paper Scissors ✊📄✂️ – A fun game against the computer using random module and conditionals.
+---
 
-(More projects will be added every day...)
+## 📂 Projects Added
+- *Treasure Hunt* 🎯 – A text-based adventure game using conditionals.
+- Stone Paper Scissors ✊📄✂️ – A fun game against the computer using random module and conditionals.
+- (More projects will be added every day...)  
 
-🛠 Tech Used
-Python 3
+---
 
-PyCharm Community Edition
+## 🛠 Tech Used
+- Python 3  
+- PyCharm Community Edition  
 
-📌 Goals
-Practice Python every day ✅
+---
 
-Upload at least one project daily ✅
+## 📌 Goals
+- Practice Python every day ✅  
+- Upload at least one project daily ✅  
+- Improve problem-solving and coding style ✅  
 
-Improve problem-solving and coding style ✅
+---
 
 ⭐ Stay tuned for more projects!
